@@ -1,4 +1,4 @@
-#Last update:2015.8.30
+#Last update:2015.9.5
 FROM skye347/ubuntu-py
 MAINTAINER Skye347 "s347419313@gmail.com"
 RUN apt-get install -y apache2
